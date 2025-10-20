@@ -56,6 +56,6 @@ Converts the image to grayscale using the formula
 Y = 0.299 * R + 0.587 * G + 0.114 * B
 and assigns that value to all three color channels.
 
-# Image Outputs
+## Image Outputs
 The main function calls each of these filters (the remove color channel function three times, once for each color) and outputs new image files showing the altered versions.
 
