@@ -1,7 +1,7 @@
 # README #1
 
-# author: Josiah Shiraki
-# purpose: Documenting the starter labs (Lab 02–05) — what I learned, challenges faced, and what each program is meant to do
+## Author: Josiah Shiraki
+## Purpose: Documenting the starter labs (Lab 02–05) — what I learned, challenges faced, and what each program is meant to do
 
 # Lab02: Command Line
 This lab focused on iterating through the challenge files in a specific order using the Linux command line.
